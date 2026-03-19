@@ -28,7 +28,7 @@
 - 스타일 적용 안됨
   - 원인 : 선택자 오류, **inline 스타일 우선순위** 문제
   - 해결 방법 : 올바른 선택자 사용 및 우선순위 확인
-- querySelectorAll로 선택한 요소가 반복되지 않음
+- querySelectorAll로 선택한 요소가 **반복되지 않음**()
   - 해결 방법 : NodeList에 forEach 또는 반복문 사용
 
 <hr>
