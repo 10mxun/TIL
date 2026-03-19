@@ -14,11 +14,11 @@
 ## 주요 DOM 선택자 및 사용법
 
 - document.getElementByld()
-  - ID로 요소를 선택하며 하나의 요소만 반환한다.
+  - **ID로 요소를 선택**하며 **하나**의 요소만 반환한다.
 - document.getElementsByClassName()
-  - 클래스 이름으로 여러 요소를 선택한다.
+  - **클래스 이름으로 여러 요소**를 선택한다.
 - document.querySelector() / querySelectorAll()
-  - CSS 선택자 형식으로 요소를 선택할 수 있다.
+  - **CSS 선택자 형식**으로 요소를 선택할 수 있다.
 
 ## 자주 발생하는 오류와 해결 방법
 
