@@ -30,3 +30,26 @@
   - 해결 방법 : 올바른 선택자 사용 및 우선순위 확인
 - querySelectorAll로 선택한 요소가 반복되지 않음
   - 해결 방법 : NodeList에 forEach 또는 반복문 사용
+
+<hr>
+
+## 요소 생성 / 수정
+
+## 요소 생성
+
+- createElement : 요소를 만드는 메서드
+- createTextNode : 거북이를 만드는 방법
+
+## 요소 속성
+
+- 속성 설정 : setAttribute('속성명','속성값');
+- 속성값 찾기 : getAttribute('속성명);
+
+## 요소 삽입
+
+- prependChild(삽입할 요소) : 첫번째 위치에 삽입
+- appendChild : 마지막 위치에 삽입
+
+## 요소 삭제
+
+- RemoveChild(삭제할 요소)
