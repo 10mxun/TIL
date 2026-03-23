@@ -173,12 +173,13 @@
 
 ## 객체 구문
 
-- var user = new Object();
-  <br>var user = {};
+- ```var user = new Object();
+  var user = {};
   - 이름 : Minjun
     <br>나이 : 17
     - key : '이름','나이'
     - Value : 'Minjun',17
+  ```
 
 ## 객체의 특징
 
