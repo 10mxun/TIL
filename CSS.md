@@ -12,7 +12,7 @@
 ## 주요기능
 
 - **_색상 및 배경_** : 글자 색(color), 배경 색상(background - color)을 이용하여 변경한다.
-- **_레이아웃_** : margin, padding, display, pasition을 활용하여 요소를 배치한다.
+- **_레이아웃_** : margin, padding, display, position을 활용하여 요소를 배치한다.
 - **_폰트 및 텍스트_** : 글꼴(font - family), 크기(font - size), 정렬(text -align)으로 설정한다.
 - **_반응형 디자인_** : 화면 크기에 따라 스타일을 다르게 적용한다.
 
@@ -59,12 +59,13 @@
 
 - CSS 적용 대상으로 HTML요소의 이름을 직접 사용하여 선택할 수 있다.
 - 작성 예시 :
+
   ```< style >
 
               h2 { color: teal; text-decoration: underline; }
 
              < /style >
-
+  ```
 
 ## 아이디 선택자
 
